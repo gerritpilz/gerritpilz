@@ -1,11 +1,11 @@
 
 ## 👋 Hi there
 
-I'm a Electrical Engineering student at the **Technical University of Munich (TUM)** with a strong
-interest in **time series analysis using signal processing techniques**.
+I'm a Electrical Engineering student at the Technical University of Munich (TUM) with a strong
+interest in time series analysis using signal processing techniques.
 
 My work focuses on combining classical signal processing concepts—such as Fourier‑ and
-wavelet‑based representations—with modern **representation learning**, especially for applications 
+wavelet‑based representations—with modern representation learning, especially for applications 
 with non-stationary signals.
 
 ---

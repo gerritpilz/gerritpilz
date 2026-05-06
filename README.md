@@ -11,8 +11,8 @@ with non-stationary signals.
 ---
 
 ## 📚 Background
-- B.Sc. Electrical Engineering and Information Technology @ TUM  
-- Teaching Assistant fr Linear Algebra  
+- B.Sc. Electrical Engineering and Information Technology at TUM  
+- Teaching Assistant for Linear Algebra  
 - Strong foundation in signal theory, stochastic signals, and communication systems  
 
 ---

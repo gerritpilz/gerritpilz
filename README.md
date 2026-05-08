@@ -14,6 +14,6 @@ interest in time series analysis,  combining signal processing techniques with m
 ---
 
 ## 🛠️ Tools & Interests
-Python / PyTorch · MATLAB · C/C++  
+Python / PyTorch · MATLAB / Simulink · C/C++  
 Signal processing · Wavelet analysis · Transformer models  
 Mathematical foundations of learning‑based methods  

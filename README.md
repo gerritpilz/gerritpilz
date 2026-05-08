@@ -2,7 +2,7 @@
 ## 👋 Hi there
 
 I'm an Electrical Engineering student at the Technical University of Munich with a strong
-interest in time series analysis, signal processing and machine learning. 
+interest in time series analysis,  combining signal processing techniques with machine learning.
 
 ---
 
